@@ -1,16 +1,16 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
+title: dhanasai ACADEMY
+email: mail@dhanasai.org
+url: https://msarm.github.io/ds.org
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Extra coaching for 10th & 12th class"
 meta_author: LastName FirstName
 
 # Google webmaster tools
-google_verify:
+google_verify: UA-71891881-1
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify: 8687E1380C3A475BC97265D76EFD65D4
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -31,31 +31,25 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: MSarm
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Other Coaching
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/dhanasai.org
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://facebook.com/dhanasai.org
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Plot No#10, IIIrd Main Road Royalla Ngr,
+  - line: Baghyalakshmi Nagar, Ramapuram, Chennai-89, TN.
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Hindi, drawing, etc. taken here.'
 
 # Build settings
 markdown: kramdown
