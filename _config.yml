@@ -55,3 +55,4 @@ credits: 'Hindi, drawing, etc. taken here.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude: [vendor]
